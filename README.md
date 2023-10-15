@@ -98,4 +98,6 @@
 <a href="https://instagram.com/rishirajsinghmertiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishirajsinghmertiya" height="30" width="40" /></a>
 </p>
 </details>
- 
+
+
+ [![An image of @flickerbot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/flickerbot)](https://holopin.io/@flickerbot)
