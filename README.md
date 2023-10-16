@@ -1,4 +1,4 @@
- Readme.md under progress ;) 
+ <!--hey! glad to see ya here -->
  <div>
 <h1 align="center">Hey there 👋𝙸'𝚖 Rishi</h1>
 </div>
@@ -17,17 +17,14 @@
 <!-- About Section -->
 <details>
   <summary><b>👩‍💻  About Me</b></summary>
-  
 
  <h1> I'm Rishiraj Singh Rathore from INDIA </h1>
   <br>
- - 🔭 I’m working as Associate Cloud Engineer
+ - 🔭  Working in CLOUD ☁️ , Primary Language JAVA 🏄‍♀️ , SIH22 RunnerUP 🤹‍♂️ and A Huge Anime fan 🏋️‍♀️
   <br>
- - 📚 I'm currently learning Cloud ☁️
+ - 📚 I'm currently learning AWS and Azure 
   <br>
  - ⚡ In my free time play Chess and explore new techs 👨‍💻
-
-
 
 </details>
   
@@ -41,7 +38,7 @@
 
 
 
- 
+ <!--language and tools -->
 
 <details>
  
@@ -82,22 +79,34 @@
 
 
 
- 
-<br clear="both">
+<!--socials -->
 
-<img src="https://raw.githubusercontent.com/flickerbot/flickerbot/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-<h3 align="left">Connect with me:</h3>
+<details>
+  <summary><b> 🧛‍♀️ Connect with me:</b></summary>
+ <br>
 <p align="left">
 <a href="https://linkedin.com/in/rishiraj-singh-rathore-b69340231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishiraj-singh-rathore-b69340231" height="30" width="40" /></a>
 <a href="https://fb.com/rishiraj.singh.501598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishiraj.singh.501598" height="30" width="40" /></a>
 <a href="https://instagram.com/rishirajsinghmertiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishirajsinghmertiya" height="30" width="40" /></a>
 </p>
+
 </details>
 
+
+<!--abt me -->
+   
+<p align="center">
+<a href="https://flickerbot.github.io/portfoilio/" title="KNOW MORE ABT ME 😎 "><img width="500" src="https://raw.githubusercontent.com/flickerbot/flickerbot/master/assets/github-snake.svg" /></a>
+</p>
+
+
+
+
+</details>
+
+
+<!--hacktoberfest -->
+
+<h2> some cool stuff I got ✨💣 </h2>
 
  [![An image of @flickerbot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/flickerbot)](https://holopin.io/@flickerbot)
